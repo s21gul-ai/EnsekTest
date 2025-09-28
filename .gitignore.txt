@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+
+# Build outputs
+bin/
+obj/
+
+# Playwright server files (optional, ignore if inside bin/)
+**/.playwright/
+
+# User & temp files
+*.user
+*.suo
+*.cache
+*.log

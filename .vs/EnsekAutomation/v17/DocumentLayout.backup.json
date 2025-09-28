@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|c:\\users\\dell\\source\\repos\\ensekautomation\\ensekapitests\\buyfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|solutionrelative:ensekapitests\\buyfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|c:\\users\\dell\\source\\repos\\ensekautomation\\ensekapitests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|solutionrelative:ensekapitests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|c:\\users\\dell\\source\\repos\\ensekautomation\\ensekapitests\\helpers\\configreader.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|solutionrelative:ensekapitests\\helpers\\configreader.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|c:\\users\\dell\\source\\repos\\ensekautomation\\ensekapitests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|solutionrelative:ensekapitests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|c:\\users\\dell\\source\\repos\\ensekautomation\\ensekapitests\\validateorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|solutionrelative:ensekapitests\\validateorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|c:\\users\\dell\\source\\repos\\ensekautomation\\ensekapitests\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|solutionrelative:ensekapitests\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|c:\\users\\dell\\source\\repos\\ensekautomation\\ensekapitests\\helpers\\apiclient.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BEBDEF7-D261-417B-A52E-68BF01CBB699}|EnsekAPITests\\EnsekAPITests.csproj|solutionrelative:ensekapitests\\helpers\\apiclient.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidateOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\ValidateOrders.cs",
+              "RelativeDocumentMoniker": "EnsekAPITests\\ValidateOrders.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\ValidateOrders.cs",
+              "RelativeToolTip": "EnsekAPITests\\ValidateOrders.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:48:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuyFuel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\BuyFuel.cs",
+              "RelativeDocumentMoniker": "EnsekAPITests\\BuyFuel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\BuyFuel.cs",
+              "RelativeToolTip": "EnsekAPITests\\BuyFuel.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:31:35.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\Helpers\\AuthHelper.cs",
+              "RelativeDocumentMoniker": "EnsekAPITests\\Helpers\\AuthHelper.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\Helpers\\AuthHelper.cs",
+              "RelativeToolTip": "EnsekAPITests\\Helpers\\AuthHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:28:47.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "EnsekAPITests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\BaseTest.cs",
+              "RelativeToolTip": "EnsekAPITests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:25:23.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\appsettings.json",
+              "RelativeDocumentMoniker": "EnsekAPITests\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\appsettings.json",
+              "RelativeToolTip": "EnsekAPITests\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-27T20:45:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\Helpers\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "EnsekAPITests\\Helpers\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\Helpers\\ConfigReader.cs",
+              "RelativeToolTip": "EnsekAPITests\\Helpers\\ConfigReader.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:43:22.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\Helpers\\ApiClient.cs",
+              "RelativeDocumentMoniker": "EnsekAPITests\\Helpers\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EnsekAutomation\\EnsekAPITests\\Helpers\\ApiClient.cs",
+              "RelativeToolTip": "EnsekAPITests\\Helpers\\ApiClient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:21:42.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
